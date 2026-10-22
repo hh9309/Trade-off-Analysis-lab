@@ -1,0 +1,6 @@
+{
+  "name": "系统方案权衡分析实验室",
+  "description": "多属性比较、帕累托前沿与系统工程最优方案权衡决策分析实验室",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
